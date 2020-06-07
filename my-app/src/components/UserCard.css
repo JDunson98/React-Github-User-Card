@@ -1,0 +1,20 @@
+.container {
+    border: 1px solid;
+    margin: 5px;
+    background-color: lightgrey;
+    width: 30%;
+    display: flex;
+}
+
+img {
+    height: 150px;
+    margin: 5px;
+}
+
+h3 {
+    margin: 15px;
+}
+
+p {
+    font-style: italic;
+}
